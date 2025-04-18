@@ -11,7 +11,7 @@
 ![PHP](https://skillicons.dev/icons?i=php)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40"/>
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="100"/>
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
