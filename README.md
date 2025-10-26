@@ -18,7 +18,3 @@
 ## 📊 Statistics:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=StanislavSolovei&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSolovei&layout=compact&theme=tokyonight)
-
-## 📫 How to contact me:
-- [Telegram](https://t.me/Solo_veyS)
-- [Email](mailto:edukacjateb176@gmail.com)
