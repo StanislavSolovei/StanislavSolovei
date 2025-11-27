@@ -11,7 +11,7 @@
 ![PHP](https://skillicons.dev/icons?i=php)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-<img src="https://confidence-tech.com/assets/images/stack/151df7-fastapi.svg" alt="FastAPI" width="50"/>
+<img src="https://confidence-tech.com/assets/images/stack/151df7-fastapi.svg" alt="FastAPI" width="45"/>
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
