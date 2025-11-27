@@ -11,7 +11,7 @@
 ![PHP](https://skillicons.dev/icons?i=php)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-<img src="https://res.cloudinary.com/harendra21/image/upload/v1742473055/withcodeexample.com/getting-started-with-python-fastapi-a-comprehensive-guide_tnigh2.jpg" alt="FastAPI" width="100"/>
+<img src="https://confidence-tech.com/assets/images/stack/151df7-fastapi.svg" alt="FastAPI" width="100"/>
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
