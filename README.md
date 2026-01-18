@@ -15,5 +15,4 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 
-## 📊 Statistics:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSolovei&layout=compact&theme=tokyonight)
+
