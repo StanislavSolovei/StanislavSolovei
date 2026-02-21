@@ -14,5 +14,6 @@
 <img src="https://confidence-tech.com/assets/images/stack/151df7-fastapi.svg" alt="FastAPI" width="48"/>
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
+![CS](https://skillicons.dev/icons?i=cs)
 
 
