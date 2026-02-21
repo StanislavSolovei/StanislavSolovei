@@ -15,6 +15,6 @@
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![CS](https://skillicons.dev/icons?i=cs)
-![Discord](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg)
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" alt="Discord" width="48"/>
 
 
