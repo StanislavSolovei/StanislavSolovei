@@ -35,3 +35,5 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" alt="Windows" width="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" alt="Wordpress" width="48"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" alt="Linux" width="48"/>
+
+<img src="https://habrastorage.org/getpro/habr/upload_files/e89/cd7/5c3/e89cd75c31c52bbd3e52015589521d58.gif"/>
