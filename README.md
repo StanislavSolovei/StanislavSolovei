@@ -4,7 +4,7 @@
     <h1 align="center">✩&emsp;Stanislav&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%238A2BE2&center=true&width=280&height=50">
 </p>
 <br>
 <p align="center">
@@ -48,4 +48,4 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" alt="Linux" width="48"/>
 <img src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png" alt="XAML" width="48"/>
 
-![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVqamQzdHE1YW1xd2dhcmZrdXBveDU4emdzajE5aTlibjh1N2plcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UC8DbMqXvkpd6/giphy.gif)
+![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVqamQzdHE1YW1xd2dhcmZrdXBveDU4emdzajE5aTlibjh1N2plcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UC8DbMqXvkpd6/giphy.gif?align="center")
