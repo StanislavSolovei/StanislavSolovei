@@ -13,7 +13,9 @@
 
 <h2 align="center">🧑‍💻 A little about me:</h2>
   - 🌱 Studying: Python, JavaScript, PHP, HTML, CSS, FastAPI, MySQL and Node.js
+  <br>
   - 💬 Ask me about: About anything, I'll try to answer)
+  <br>
   - ⚡ Fact: In addition to programming, I am fond of table tennis, geography and history
 
 ## 🛠️ Stack:
