@@ -1,11 +1,7 @@
 <div align="center">
-
-![GIF](https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif)
-
-# Hi there 👋, I'm Stanislav Solovei
-
-![GIF](https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif)
-
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30" style="vertical-align: middle;">
+  <strong style="font-size: 24px; vertical-align: middle;">Hi there 👋, I'm Stanislav Solovei</strong>
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30" style="vertical-align: middle;">
 </div>
 
 ## 🧑‍💻 A little about me:
