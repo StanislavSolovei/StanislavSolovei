@@ -11,10 +11,12 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
 </p>
 
-##    🧑‍💻 A little about me:
+<center>
+🧑‍💻 A little about me:
   - 🌱 Studying: Python, JavaScript, PHP, HTML, CSS, FastAPI, MySQL and Node.js
   - 💬 Ask me about: About anything, I'll try to answer)
   - ⚡ Fact: In addition to programming, I am fond of table tennis, geography and history
+</center>
 
 ## 🛠️ Stack:
 ![Python](https://skillicons.dev/icons?i=python)
