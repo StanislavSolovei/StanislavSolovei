@@ -1,12 +1,15 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="10%" alt="Background GIF" />
   
-  <h1 style="color: #ff69b4;>☆ Stanislav ☆</h1>
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100%" alt="Background GIF" />
 
- 
+  
+  <h1 style="color: #ff69b4;">☆ Stanislav ☆</h1>
+
+  
   <hr />
 
- 
+
+
   <img src="https://komarev.com/ghpvc/?username=drknzz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
