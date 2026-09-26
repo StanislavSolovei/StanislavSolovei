@@ -18,7 +18,7 @@
   <br>
   - ⚡ Fact: In addition to programming, I am fond of table tennis, geography and history
 
-## 🛠️ Stack:
+<h2 align="center">🛠️ Stack:</h2>
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![PHP](https://skillicons.dev/icons?i=php)
