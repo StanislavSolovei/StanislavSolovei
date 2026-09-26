@@ -11,7 +11,7 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
 </p>
 
-<h2 align="right">🧑‍💻 A little about me:</h2>
+<h2 align="center">🧑‍💻 A little about me:</h2>
   - 🌱 Studying: Python, JavaScript, PHP, HTML, CSS, FastAPI, MySQL and Node.js
   <br>
   - 💬 Ask me about: About anything, I'll try to answer)
