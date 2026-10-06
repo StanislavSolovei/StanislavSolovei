@@ -51,5 +51,4 @@
 <img src="https://user-images.githubusercontent.com/16964652/66596008-f4e3ed80-eb50-11e9-9a8a-3e9a5adf4d7c.png" alt="XAML" width="48"/>
 <center>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVqamQzdHE1YW1xd2dhcmZrdXBveDU4emdzajE5aTlibjh1N2plcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UC8DbMqXvkpd6/giphy.gif">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StanislavSolovei&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </center>
